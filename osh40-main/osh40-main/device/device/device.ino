@@ -1,7 +1,7 @@
 /*
   University of Beira Interior
   PhD Thesis - Industrial Engineering and Management
-  Occupational Health and Safety 4.0 – New approach to individual environmental risk assessment and management
+  OSH Guardian
 
   Monitoring device for dust, noise, UV, illuminance, temperature, humidity, and gas
 
@@ -1041,3 +1041,4 @@ void loop()
    mqttClient.loop();
 
 }
+
