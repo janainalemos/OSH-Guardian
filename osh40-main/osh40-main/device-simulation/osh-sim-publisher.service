@@ -1,0 +1,9 @@
+[Unit]
+Description=OSH publisher - simulates a monitoring device in OSH 4.0 system by publishing data through MQTT protocol
+After=network.target
+[Service]
+Type=simple
+Restart=always
+ExecStart=/usr/bin/python3 /home/janaina/device-simulation/osh-sim-publisher.py
+[Install]
+WantedBy=multi-user.target

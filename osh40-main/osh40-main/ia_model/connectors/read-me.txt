@@ -1,0 +1,4 @@
+Install InfluxDB locally:
+https://www.vultr.com/docs/how-to-install-influxdb-on-ubuntu-20-04/
+
+https://docs.influxdata.com/influxdb/v2.0/install/?t=Linux

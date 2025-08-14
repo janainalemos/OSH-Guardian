@@ -1,0 +1,8 @@
+sudo gedit /etc/systemd/system/osh-sim-publisher.service
+
+sudo systemctl daemon-reload
+
+sudo systemctl enable osh-sim-publisher.service
+
+sudo systemctl start osh-sim-publisher.service
+
