@@ -9,6 +9,11 @@ The system is composed of three parts:
 
 The figure below shows the system's architecture.
 
+Reference:
+
+https://doi.org/10.3390/app14031021
+
+
 <img width="800" height="500" alt="Recommendation System Architecture" src="https://github.com/user-attachments/assets/4b4efe84-ef8c-4d1e-a2e0-37607f3b8b4c" />
 
 The project is organized as follows:
@@ -34,3 +39,5 @@ The project is organized as follows:
    * requeriments.txt: contains all libraries used in this project.
    
 * **utils:** contains auxiliary functions for other classes in this project.
+
+  
