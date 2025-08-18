@@ -2,10 +2,10 @@
 This code simulates three monitoring devices - 6066, 6067, 6068
 
 The objective of the simulation is to feed the server without the need to keep the prototype working uninterruptedly
-and to provide data for IA training .
+and to provide data for AI training.
 Data referring to each sensor is generated every ten minutes and published through the MQTT protocol.
 In temperature and humidity there is little variation in the values to maintain consistency with reality.
-Gas must not be considered in IA and is always set to zero.
+Gas must not be considered in AI and is always set to zero.
 """
 
 from datetime import datetime as dt
@@ -49,6 +49,7 @@ if __name__ == '__main__':
 		run_simulation()
 
 	
+
 
 
 
