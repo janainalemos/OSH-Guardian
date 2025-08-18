@@ -19,7 +19,7 @@ https://doi.org/10.3390/app14031021
 The project is organized as follows:
 
 * **device:** contains the source code monitoring device.
-* **device-simulation:** simulation of monitoring devices to generate data for AI training purposes.
+* **device-simulation and utils:** simulation of monitoring devices to generate data for AI training purposes.
 
 * **ia_model:** contains the project structure divided into the following resources:
 
