@@ -18,6 +18,8 @@ https://doi.org/10.3390/app14031021
 
 The project is organized as follows:
 
+* **device:** contains the source code monitoring device.
+
 * **ia_model:** contains the project structure divided into the following resources:
 
    * connectors: contains the Postgres class that allows connecting/querying data from the relational database.
